@@ -24,7 +24,7 @@ HowToMake
 ####PerfectCurry
 * WhatYouNeed (6 plates)
    1. Kabocha (half)
-   2. Spinach (2 bunchs)
+   2. Spinach (2 bunches)
    3. Pork leg (500g)
    4. Curry roux (6 pieces)
    5. Sliced garlic (30g)(if you want)
