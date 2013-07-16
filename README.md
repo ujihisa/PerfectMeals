@@ -33,7 +33,7 @@ HowToMake
   1. Just follow an instruction on the back of a curry roux package using kabocha, spinach and garlic instead of potato, onion and carrot.
   2. Done!
 
-Instruction
+instruction
 ===========
 
 You can have meals above just like the following.
