@@ -9,8 +9,8 @@ HowToMake
 
 ####PerfectTKG
 
-* WhatYouNeed(1 plate)
-   1. rice (180g)
+* WhatYouNeed (1 plate)
+   1. rice (200g)
    2. egg (1egg)
    3. Kimchi (30g)
    4. Natto (1pack)
@@ -22,12 +22,13 @@ HowToMake
    2. Done!
 
 ####PerfectCurry
-* WhatYouNeed(6 plates)
+* WhatYouNeed (6 plates)
    1. Kabocha (half)
    2. Spinach (2 bunchs)
    3. Pork leg (500g)
    4. Curry roux (6 pieces)
    5. Sliced garlic (30g)(if you want)
+   6. rice (200g)
 
 * HowToMake
   1. Just follow an instruction on the back of a curry roux package using kabocha, spinach and garlic instead of potato, onion and carrot.
